@@ -127,8 +127,9 @@ Average Discount = AVERAGE('SalesData'[Discount])
 Add the screenshot here.
 
 ### Product & Profit Analysis
+![Executive Overview]
+(ScreenShots/ExecutiveOverview.png)
 
-Add the screenshot here.
 
 ## 📌 Conclusion
 
